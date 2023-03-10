@@ -1,0 +1,11 @@
+﻿  Buying.cpp
+D:\projects\c++ projects\Computer Shop Management System\Computer Shop Management System\Buying.cpp(110,6): warning C4101: 'choice': unreferenced local variable
+  Computer.cpp
+  Hardware.cpp
+D:\projects\c++ projects\Computer Shop Management System\Computer Shop Management System\Hardware.cpp(34,35): warning C4101: 'ex': unreferenced local variable
+  SignUp.cpp
+D:\projects\c++ projects\Computer Shop Management System\Computer Shop Management System\SignUp.cpp(114,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Software.cpp
+  Source.cpp
+  Generating Code...
+  Computer Shop Management System.vcxproj -> D:\projects\c++ projects\Computer Shop Management System\x64\Debug\Computer Shop Management System.exe
